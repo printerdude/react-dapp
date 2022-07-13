@@ -1,10 +1,14 @@
+<<<<<<< HEAD
 require("@nomicfoundation/hardhat-toolbox");
+=======
+// require("@nomicfoundation/hardhat-toolbox");
+>>>>>>> dev
 // mirgrate to @nomicfoundation/hardhat-chai-matchers using https://hardhat.org/migrate-from-waffle
 require('@nomicfoundation/hardhat-chai-matchers');
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
-	solidity: '0.8.3',
+	solidity: '0.8.9',
 	paths: {
 		artifacts: './src/artifacts',
 	},
