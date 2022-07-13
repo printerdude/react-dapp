@@ -1,4 +1,5 @@
 require("@nomicfoundation/hardhat-toolbox");
+// mirgrate to @nomicfoundation/hardhat-chai-matchers using https://hardhat.org/migrate-from-waffle
 require('@nomicfoundation/hardhat-chai-matchers');
 
 /** @type import('hardhat/config').HardhatUserConfig */
