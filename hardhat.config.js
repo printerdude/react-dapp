@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-require("@nomicfoundation/hardhat-toolbox");
-=======
 // require("@nomicfoundation/hardhat-toolbox");
->>>>>>> dev
 // mirgrate to @nomicfoundation/hardhat-chai-matchers using https://hardhat.org/migrate-from-waffle
 require('@nomicfoundation/hardhat-chai-matchers');
 
